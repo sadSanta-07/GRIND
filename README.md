@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
+| [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/sadSanta-07/GRIND/tree/master/0980-unique-paths-iii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sadSanta-07/GRIND/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
+| [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/sadSanta-07/GRIND/tree/master/0980-unique-paths-iii) |
 ## Depth-First Search
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sadSanta-07/GRIND/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -36,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/sadSanta-07/GRIND/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
