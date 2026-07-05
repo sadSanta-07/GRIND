@@ -1,27 +1,46 @@
-// 546A
+// 677A
+
 #include <iostream>
+#include <vector>
+
 using namespace std;
 
-int soldierNDbanana(int k, int n, int w)
+class Solution
 {
-    int total_cost = k * w * (w + 1) / 2;
-    if (total_cost <= n)
-        return 0;
-    return total_cost - n;
-}
+public:
+    int vanayafense(vector<int> arr, int n, int h)
+    {
+        int sum = 0;
+        for (int i = 0; i < arr.size(); i++)
+        {
+            if (arr[i] <= h)
+            {
+                sum += 1;
+            }
+            else
+            {
+                sum += 2;
+            }
+        }
+        return sum;
+    }
+};
 
 int main()
 {
-    int k;
-    cin >> k;
     int n;
     cin >> n;
-    int w;
-    cin >> w;
+    int h;
+    cin >> h;
+    vector<int> arr(3);
 
-    int res = soldierNDbanana(k, n, w);
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i];
+    }
 
-    cout << res << endl;
+    Solution obj;
+    cout << obj.vanayafense(arr, n, h);
 
     return 0;
 }
