@@ -4,10 +4,14 @@ public:
         int slow = nums[0];
         int fast = nums[0];
 
-        do {
+        // Move once
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+
+        while (slow != fast) {
             slow = nums[slow];
             fast = nums[nums[fast]];
-        } while (slow != fast);
+        }
 
         slow = nums[0];
 
