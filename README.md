@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/sadSanta-07/GRIND/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/sadSanta-07/GRIND/tree/master/1260-shift-2d-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sadSanta-07/GRIND/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/sadSanta-07/GRIND/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
+| [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/sadSanta-07/GRIND/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sadSanta-07/GRIND/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sadSanta-07/GRIND/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sadSanta-07/GRIND/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sadSanta-07/GRIND/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
