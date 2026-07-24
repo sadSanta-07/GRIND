@@ -10,13 +10,11 @@ public:
 
         while (j < n) {
             sum += nums[j];
-
             while (sum >= target) {
                 minL = min(minL, j - i + 1);
                 sum -= nums[i];
                 i++;
             }
-
             j++;
         }
         return minL == n + 1 ? 0 : minL;
