@@ -8,9 +8,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sadSanta-07/GRIND/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sadSanta-07/GRIND/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sadSanta-07/GRIND/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sadSanta-07/GRIND/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadSanta-07/GRIND/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sadSanta-07/GRIND/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sadSanta-07/GRIND/tree/master/0209-minimum-size-subarray-sum) |
@@ -42,9 +44,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadSanta-07/GRIND/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sadSanta-07/GRIND/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sadSanta-07/GRIND/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/sadSanta-07/GRIND/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sadSanta-07/GRIND/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sadSanta-07/GRIND/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/sadSanta-07/GRIND/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sadSanta-07/GRIND/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -77,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadSanta-07/GRIND/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sadSanta-07/GRIND/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sadSanta-07/GRIND/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sadSanta-07/GRIND/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sadSanta-07/GRIND/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sadSanta-07/GRIND/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sadSanta-07/GRIND/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sadSanta-07/GRIND/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/sadSanta-07/GRIND/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/sadSanta-07/GRIND/tree/master/0567-permutation-in-string) |
@@ -109,9 +115,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadSanta-07/GRIND/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sadSanta-07/GRIND/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sadSanta-07/GRIND/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sadSanta-07/GRIND/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sadSanta-07/GRIND/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sadSanta-07/GRIND/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sadSanta-07/GRIND/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
@@ -164,7 +172,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sadSanta-07/GRIND/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sadSanta-07/GRIND/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sadSanta-07/GRIND/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/sadSanta-07/GRIND/tree/master/1301-number-of-paths-with-max-score) |
@@ -208,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/sadSanta-07/GRIND/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sadSanta-07/GRIND/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/sadSanta-07/GRIND/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sadSanta-07/GRIND/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -226,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sadSanta-07/GRIND/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sadSanta-07/GRIND/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sadSanta-07/GRIND/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/sadSanta-07/GRIND/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sadSanta-07/GRIND/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sadSanta-07/GRIND/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sadSanta-07/GRIND/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -278,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sadSanta-07/GRIND/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sadSanta-07/GRIND/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
