@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sadSanta-07/GRIND/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/sadSanta-07/GRIND/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
+| [0560-subarray-sum-equals-k](https://github.com/sadSanta-07/GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sadSanta-07/GRIND/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/sadSanta-07/GRIND/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
+| [0560-subarray-sum-equals-k](https://github.com/sadSanta-07/GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sadSanta-07/GRIND/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/sadSanta-07/GRIND/tree/master/1331-rank-transform-of-an-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sadSanta-07/GRIND/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sadSanta-07/GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sadSanta-07/GRIND/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sadSanta-07/GRIND/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
