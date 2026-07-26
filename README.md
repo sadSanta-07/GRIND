@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/sadSanta-07/GRIND/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0977-squares-of-a-sorted-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sadSanta-07/GRIND/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sadSanta-07/GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/sadSanta-07/GRIND/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sadSanta-07/GRIND/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sadSanta-07/GRIND/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
