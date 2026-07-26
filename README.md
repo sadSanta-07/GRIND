@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/sadSanta-07/GRIND/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0918-maximum-sum-circular-subarray) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sadSanta-07/GRIND/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sadSanta-07/GRIND/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/sadSanta-07/GRIND/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sadSanta-07/GRIND/tree/master/1331-rank-transform-of-an-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sadSanta-07/GRIND/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sadSanta-07/GRIND/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/sadSanta-07/GRIND/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sadSanta-07/GRIND/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sadSanta-07/GRIND/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sadSanta-07/GRIND/tree/master/3513-number-of-unique-xor-triplets-i) |
