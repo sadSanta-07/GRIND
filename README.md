@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sadSanta-07/GRIND/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sadSanta-07/GRIND/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sadSanta-07/GRIND/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sadSanta-07/GRIND/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sadSanta-07/GRIND/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sadSanta-07/GRIND/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sadSanta-07/GRIND/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/sadSanta-07/GRIND/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sadSanta-07/GRIND/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
