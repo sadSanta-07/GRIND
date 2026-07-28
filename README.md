@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sadSanta-07/GRIND/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/sadSanta-07/GRIND/tree/master/0980-unique-paths-iii) |
+| [0986-interval-list-intersections](https://github.com/sadSanta-07/GRIND/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/sadSanta-07/GRIND/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sadSanta-07/GRIND/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/sadSanta-07/GRIND/tree/master/1260-shift-2d-grid) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sadSanta-07/GRIND/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/sadSanta-07/GRIND/tree/master/0986-interval-list-intersections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sadSanta-07/GRIND/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sadSanta-07/GRIND/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/sadSanta-07/GRIND/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
