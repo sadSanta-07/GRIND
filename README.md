@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sadSanta-07/GRIND/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sadSanta-07/GRIND/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0877-stone-game](https://github.com/sadSanta-07/GRIND/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sadSanta-07/GRIND/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sadSanta-07/GRIND/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/sadSanta-07/GRIND/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sadSanta-07/GRIND/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sadSanta-07/GRIND/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sadSanta-07/GRIND/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/sadSanta-07/GRIND/tree/master/1301-number-of-paths-with-max-score) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sadSanta-07/GRIND/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sadSanta-07/GRIND/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sadSanta-07/GRIND/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sadSanta-07/GRIND/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sadSanta-07/GRIND/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sadSanta-07/GRIND/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -364,4 +367,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sadSanta-07/GRIND/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sadSanta-07/GRIND/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
