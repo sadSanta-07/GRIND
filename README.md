@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadSanta-07/GRIND/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sadSanta-07/GRIND/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sadSanta-07/GRIND/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sadSanta-07/GRIND/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sadSanta-07/GRIND/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sadSanta-07/GRIND/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sadSanta-07/GRIND/tree/master/1406-stone-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
