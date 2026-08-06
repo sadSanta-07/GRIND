@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sadSanta-07/GRIND/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/sadSanta-07/GRIND/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sadSanta-07/GRIND/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/sadSanta-07/GRIND/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sadSanta-07/GRIND/tree/master/0904-fruit-into-baskets) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/sadSanta-07/GRIND/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/sadSanta-07/GRIND/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/sadSanta-07/GRIND/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sadSanta-07/GRIND/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sadSanta-07/GRIND/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/sadSanta-07/GRIND/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sadSanta-07/GRIND/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
