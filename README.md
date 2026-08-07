@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sadSanta-07/GRIND/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/sadSanta-07/GRIND/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sadSanta-07/GRIND/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/sadSanta-07/GRIND/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sadSanta-07/GRIND/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/sadSanta-07/GRIND/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/sadSanta-07/GRIND/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sadSanta-07/GRIND/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
 | ------- |
