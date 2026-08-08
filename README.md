@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sadSanta-07/GRIND/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sadSanta-07/GRIND/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
+| [0383-ransom-note](https://github.com/sadSanta-07/GRIND/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadSanta-07/GRIND/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/sadSanta-07/GRIND/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sadSanta-07/GRIND/tree/master/0409-longest-palindrome) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sadSanta-07/GRIND/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sadSanta-07/GRIND/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sadSanta-07/GRIND/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/sadSanta-07/GRIND/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadSanta-07/GRIND/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sadSanta-07/GRIND/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sadSanta-07/GRIND/tree/master/0424-longest-repeating-character-replacement) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/sadSanta-07/GRIND/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadSanta-07/GRIND/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sadSanta-07/GRIND/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sadSanta-07/GRIND/tree/master/3517-smallest-palindromic-rearrangement-i) |
