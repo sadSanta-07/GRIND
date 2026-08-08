@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadSanta-07/GRIND/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sadSanta-07/GRIND/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/sadSanta-07/GRIND/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sadSanta-07/GRIND/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/sadSanta-07/GRIND/tree/master/0424-longest-repeating-character-replacement) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sadSanta-07/GRIND/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/sadSanta-07/GRIND/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/sadSanta-07/GRIND/tree/master/0503-next-greater-element-ii) |
