@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sadSanta-07/GRIND/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sadSanta-07/GRIND/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sadSanta-07/GRIND/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sadSanta-07/GRIND/tree/master/0057-insert-interval) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sadSanta-07/GRIND/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadSanta-07/GRIND/tree/master/0167-two-sum-ii-input-array-is-sorted) |
