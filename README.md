@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sadSanta-07/GRIND/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/sadSanta-07/GRIND/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sadSanta-07/GRIND/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sadSanta-07/GRIND/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sadSanta-07/GRIND/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sadSanta-07/GRIND/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sadSanta-07/GRIND/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sadSanta-07/GRIND/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/sadSanta-07/GRIND/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sadSanta-07/GRIND/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sadSanta-07/GRIND/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sadSanta-07/GRIND/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sadSanta-07/GRIND/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sadSanta-07/GRIND/tree/master/3620-network-recovery-pathways) |
