@@ -1,43 +1,36 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        if (nums1.size() > nums2.size()) {
-            swap(nums1, nums2);
-        }
+        if (nums1.size() > nums2.size())
+            return findMedianSortedArrays(nums2, nums1);
 
         int m = nums1.size();
         int n = nums2.size();
 
-        int low = 0;
-        int high = m;
-
-        int total = m + n;
-        int leftSize = (total + 1) / 2;
-
+        int low = 0, high = m;
         while (low <= high) {
-            int i = low + (high - low) / 2;
-            int j = leftSize - i;
 
-            int Aleft = (i == 0) ? INT_MIN : nums1[i - 1];
-            int Aright = (i == m) ? INT_MAX : nums1[i];
+            int Px = low + (high - low) / 2;
+            int Py = (m + n + 1) / 2 - Px;
 
-            int Bleft = (j == 0) ? INT_MIN : nums2[j - 1];
-            int Bright = (j == n) ? INT_MAX : nums2[j];
+            int x1 = (Px == 0) ? INT_MIN : nums1[Px - 1];
+            int x3 = (Px == m) ? INT_MAX : nums1[Px];
 
-            if (Aleft <= Bright && Bleft <= Aright) {
+            int x2 = (Py == 0) ? INT_MIN : nums2[Py - 1];
+            int x4 = (Py == n) ? INT_MAX : nums2[Py];
 
-                int leftMax = max(Aleft, Bleft);
-                int rightMin = min(Aright, Bright);
-                if (total % 2 == 1) {
-                    return leftMax;
-                }
-                return (leftMax + rightMin) / 2.0;
-            } else if (Aleft > Bright) {
-                high = i - 1;
+            if (x1 <= x4 && x2 <= x3) {
+                if ((m + n) % 2 == 0)
+                    return (max(x1, x2) + min(x3, x4)) / 2.0;
+
+                return max(x1, x2);
+            } else if (x1 > x4) {
+                high = Px - 1;
             } else {
-                low = i + 1;
+                low = Px + 1;
             }
         }
-        return 0.0;
+
+        return -1;
     }
 };
