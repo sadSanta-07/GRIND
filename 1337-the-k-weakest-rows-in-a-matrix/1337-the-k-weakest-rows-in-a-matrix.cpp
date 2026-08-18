@@ -15,6 +15,7 @@ public:
                 r = mid - 1;
             }
         }
+
         return result + 1;
     }
 
@@ -22,20 +23,28 @@ public:
         int m = mat.size();
         int n = mat[0].size();
 
-        vector<P> countOnes;
+        priority_queue<P> pq;
+
+        // O(m*log(n) + m*log(k))
         for (int row = 0; row < m; row++) {
 
-            int num_ones = binarySearch(mat[row], 0, n - 1);
+            int num_ones = binarySearch(mat[row], 0, n - 1); // O(log(n))
 
-            countOnes.push_back({num_ones, row});
+            pq.push({num_ones, row});
+
+            if (pq.size() > k)
+                pq.pop();
         }
 
-        sort(begin(countOnes), end(countOnes));
-
         vector<int> result(k);
+        int j = k - 1;
 
-        for (int i = 0; i < k; i++) {
-            result[i] = countOnes[i].second;
+        // log(k)
+        while (!pq.empty()) {
+            P temp = pq.top();
+            pq.pop();
+
+            result[j--] = temp.second;
         }
 
         return result;
