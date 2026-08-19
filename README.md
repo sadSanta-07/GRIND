@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/sadSanta-07/GRIND/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/sadSanta-07/GRIND/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sadSanta-07/GRIND/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/sadSanta-07/GRIND/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sadSanta-07/GRIND/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/sadSanta-07/GRIND/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sadSanta-07/GRIND/tree/master/1288-remove-covered-intervals) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sadSanta-07/GRIND/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sadSanta-07/GRIND/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/sadSanta-07/GRIND/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/sadSanta-07/GRIND/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sadSanta-07/GRIND/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sadSanta-07/GRIND/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sadSanta-07/GRIND/tree/master/2812-find-the-safest-path-in-a-grid) |
