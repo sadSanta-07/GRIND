@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sadSanta-07/GRIND/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/sadSanta-07/GRIND/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/sadSanta-07/GRIND/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sadSanta-07/GRIND/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/sadSanta-07/GRIND/tree/master/0713-subarray-product-less-than-k) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sadSanta-07/GRIND/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/sadSanta-07/GRIND/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/sadSanta-07/GRIND/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/sadSanta-07/GRIND/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/sadSanta-07/GRIND/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sadSanta-07/GRIND/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sadSanta-07/GRIND/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sadSanta-07/GRIND/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/sadSanta-07/GRIND/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/sadSanta-07/GRIND/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sadSanta-07/GRIND/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sadSanta-07/GRIND/tree/master/0973-k-closest-points-to-origin) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sadSanta-07/GRIND/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sadSanta-07/GRIND/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/sadSanta-07/GRIND/tree/master/0630-course-schedule-iii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sadSanta-07/GRIND/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sadSanta-07/GRIND/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sadSanta-07/GRIND/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
