@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadSanta-07/GRIND/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sadSanta-07/GRIND/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/sadSanta-07/GRIND/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sadSanta-07/GRIND/tree/master/0076-minimum-window-substring) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/sadSanta-07/GRIND/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/sadSanta-07/GRIND/tree/master/0980-unique-paths-iii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sadSanta-07/GRIND/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0152-maximum-product-subarray) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0022-generate-parentheses) |
 ## Ternary Search
 |  |
 | ------- |
