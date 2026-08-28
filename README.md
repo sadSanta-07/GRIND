@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sadSanta-07/GRIND/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sadSanta-07/GRIND/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sadSanta-07/GRIND/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sadSanta-07/GRIND/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sadSanta-07/GRIND/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sadSanta-07/GRIND/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sadSanta-07/GRIND/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sadSanta-07/GRIND/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sadSanta-07/GRIND/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sadSanta-07/GRIND/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/sadSanta-07/GRIND/tree/master/0986-interval-list-intersections) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sadSanta-07/GRIND/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sadSanta-07/GRIND/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
