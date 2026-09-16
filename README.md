@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0094-binary-tree-inorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sadSanta-07/GRIND/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sadSanta-07/GRIND/tree/master/3310-remove-methods-from-project) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sadSanta-07/GRIND/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sadSanta-07/GRIND/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sadSanta-07/GRIND/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sadSanta-07/GRIND/tree/master/0402-remove-k-digits) |
@@ -568,4 +570,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/sadSanta-07/GRIND/tree/master/0480-sliding-window-median) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
