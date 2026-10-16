@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sadSanta-07/GRIND/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0145-binary-tree-postorder-traversal) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sadSanta-07/GRIND/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sadSanta-07/GRIND/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sadSanta-07/GRIND/tree/master/0198-house-robber) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sadSanta-07/GRIND/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0145-binary-tree-postorder-traversal) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sadSanta-07/GRIND/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0145-binary-tree-postorder-traversal) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sadSanta-07/GRIND/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
