@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sadSanta-07/GRIND/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadSanta-07/GRIND/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sadSanta-07/GRIND/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sadSanta-07/GRIND/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sadSanta-07/GRIND/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sadSanta-07/GRIND/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sadSanta-07/GRIND/tree/master/0240-search-a-2d-matrix-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/sadSanta-07/GRIND/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sadSanta-07/GRIND/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sadSanta-07/GRIND/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sadSanta-07/GRIND/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sadSanta-07/GRIND/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sadSanta-07/GRIND/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sadSanta-07/GRIND/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sadSanta-07/GRIND/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sadSanta-07/GRIND/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0980-unique-paths-iii](https://github.com/sadSanta-07/GRIND/tree/master/0980-unique-paths-iii) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sadSanta-07/GRIND/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sadSanta-07/GRIND/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sadSanta-07/GRIND/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sadSanta-07/GRIND/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sadSanta-07/GRIND/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sadSanta-07/GRIND/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sadSanta-07/GRIND/tree/master/2812-find-the-safest-path-in-a-grid) |
