@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sadSanta-07/GRIND/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sadSanta-07/GRIND/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sadSanta-07/GRIND/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sadSanta-07/GRIND/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sadSanta-07/GRIND/tree/master/0951-flip-equivalent-binary-trees) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sadSanta-07/GRIND/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sadSanta-07/GRIND/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sadSanta-07/GRIND/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sadSanta-07/GRIND/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sadSanta-07/GRIND/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sadSanta-07/GRIND/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sadSanta-07/GRIND/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sadSanta-07/GRIND/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sadSanta-07/GRIND/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sadSanta-07/GRIND/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sadSanta-07/GRIND/tree/master/3286-find-a-safe-walk-through-a-grid) |
