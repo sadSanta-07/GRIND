@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sadSanta-07/GRIND/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sadSanta-07/GRIND/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sadSanta-07/GRIND/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/sadSanta-07/GRIND/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sadSanta-07/GRIND/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sadSanta-07/GRIND/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sadSanta-07/GRIND/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sadSanta-07/GRIND/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/sadSanta-07/GRIND/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/sadSanta-07/GRIND/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sadSanta-07/GRIND/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sadSanta-07/GRIND/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sadSanta-07/GRIND/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sadSanta-07/GRIND/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sadSanta-07/GRIND/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sadSanta-07/GRIND/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sadSanta-07/GRIND/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sadSanta-07/GRIND/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sadSanta-07/GRIND/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sadSanta-07/GRIND/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sadSanta-07/GRIND/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -725,4 +729,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sadSanta-07/GRIND/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sadSanta-07/GRIND/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sadSanta-07/GRIND/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sadSanta-07/GRIND/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
