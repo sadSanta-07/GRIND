@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sadSanta-07/GRIND/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/sadSanta-07/GRIND/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sadSanta-07/GRIND/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/sadSanta-07/GRIND/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sadSanta-07/GRIND/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sadSanta-07/GRIND/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sadSanta-07/GRIND/tree/master/0410-split-array-largest-sum) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sadSanta-07/GRIND/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/sadSanta-07/GRIND/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sadSanta-07/GRIND/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/sadSanta-07/GRIND/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sadSanta-07/GRIND/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sadSanta-07/GRIND/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/sadSanta-07/GRIND/tree/master/0658-find-k-closest-elements) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sadSanta-07/GRIND/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sadSanta-07/GRIND/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sadSanta-07/GRIND/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sadSanta-07/GRIND/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/sadSanta-07/GRIND/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sadSanta-07/GRIND/tree/master/0509-fibonacci-number) |
@@ -744,4 +747,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/sadSanta-07/GRIND/tree/master/0127-word-ladder) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sadSanta-07/GRIND/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
