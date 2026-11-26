@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sadSanta-07/GRIND/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sadSanta-07/GRIND/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sadSanta-07/GRIND/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sadSanta-07/GRIND/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sadSanta-07/GRIND/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sadSanta-07/GRIND/tree/master/0131-palindrome-partitioning) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sadSanta-07/GRIND/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sadSanta-07/GRIND/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sadSanta-07/GRIND/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/sadSanta-07/GRIND/tree/master/0486-predict-the-winner) |
@@ -751,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sadSanta-07/GRIND/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sadSanta-07/GRIND/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
